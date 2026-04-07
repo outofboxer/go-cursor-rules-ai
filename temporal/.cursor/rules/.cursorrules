@@ -1,6 +1,6 @@
 ---
 description: Go Temporal DSL Workflow & Activity Rules (Self-Contained)
-alwaysApply: false
+alwaysApply: true
 globs:
   - "**/*.go"
 rules:

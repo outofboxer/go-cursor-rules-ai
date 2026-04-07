@@ -1,7 +1,7 @@
 ---
 description:
 globs:
-alwaysApply: false
+alwaysApply: true
 ---
 # Agentic Coding with Go Temporal DSL: Humans Design, Agents Implement!
 

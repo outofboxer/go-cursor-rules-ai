@@ -1,9 +1,11 @@
 ---
 description:
 globs:
-alwaysApply: false
+alwaysApply: true
 ---
 This file provides rules and context for generating or understanding Go code related to a custom Domain Specific Language (DSL) for defining Temporal workflows within this project.
+
+**Paths in this file are illustrative** for a hypothetical `dsl` package (e.g. `dsl/worker/main.go`). You should get actual Temporal worker location from the repository, if any.
 
 **DSL Overview:**
 
